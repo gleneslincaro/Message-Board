@@ -1,0 +1,893 @@
+2016-03-01 06:46:09 Error: [MissingControllerException] Controller class HelloController could not be found.
+Exception Attributes: array (
+  'class' => 'HelloController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 06:47:00 Error: [MissingControllerException] Controller class HelloController could not be found.
+Exception Attributes: array (
+  'class' => 'HelloController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 06:48:26 Error: [MissingControllerException] Controller class HelloController could not be found.
+Exception Attributes: array (
+  'class' => 'HelloController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 06:48:27 Error: [MissingControllerException] Controller class HelloController could not be found.
+Exception Attributes: array (
+  'class' => 'HelloController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 06:49:59 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /cakephp/app/
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-03-01 06:50:34 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 06:50:37 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 06:50:52 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 06:50:52 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 06:50:53 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 06:51:18 Error: [MissingViewException] View file "Hello\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Hello\\index.ctp',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#4 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2016-03-01 07:23:51 Error: [MissingControllerException] Controller class HelloController could not be found.
+Exception Attributes: array (
+  'class' => 'HelloController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 07:26:54 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:26:55 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:27:03 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:27:04 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:30:24 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:30:25 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:42:50 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:43:47 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:43:49 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:50:10 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:50:11 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:58:18 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:58:19 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 07:59:36 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 19]
+2016-03-01 07:59:36 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 19, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 19, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 07:59:59 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:00:01 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:00:23 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:00:44 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource(Array, Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(21): Model->find(Array)
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:00:54 Error: Fatal Error (1): Call to a member function read() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:00:54 Error: [FatalErrorException] Call to a member function read() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:39 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:39 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:40 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:40 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:40 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:40 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:40 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:40 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:41 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:41 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:52 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:52 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:02:53 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:02:53 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:04:24 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:04:24 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:05:02 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:05:02 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:06:02 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:06:02 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:06:02 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:06:02 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:06:03 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:06:03 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:06:16 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(16): Model->find('all')
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:06:27 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:06:27 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:06:46 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:06:46 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:07:03 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 17]
+2016-03-01 08:07:03 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:07:04 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 17]
+2016-03-01 08:07:04 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:07:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 17]
+2016-03-01 08:07:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:07:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 17]
+2016-03-01 08:07:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 17, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:07:13 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:07:13 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:08:54 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:08:54 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:08:59 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/posts
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 08:09:12 Error: [MissingControllerException] Controller class HellowController could not be found.
+Exception Attributes: array (
+  'class' => 'HellowController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/hellow
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-03-01 08:09:16 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 16]
+2016-03-01 08:09:16 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 16, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:16 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:16 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:17 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:17 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:11:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:11:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:13:55 Error: [MissingDatasourceConfigException] The datasource configuration "default" was not found in database.php
+Exception Attributes: array (
+  'config' => 'default',
+)
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Model\ConnectionManager.php(91): ConnectionManager::_getConnectionObject('default')
+#1 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3626): ConnectionManager::getDataSource('default')
+#2 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(1155): Model->setDataSource('default')
+#3 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3653): Model->setSource('grades')
+#4 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3031): Model->getDataSource()
+#5 C:\wamp\www\cakephp\lib\Cake\Model\Model.php(3003): Model->_readDataSource('all', Array)
+#6 C:\wamp\www\cakephp\app\Controller\HelloController.php(18): Model->find('all')
+#7 [internal function]: HelloController->index()
+#8 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(HelloController), Array)
+#9 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HelloController), Object(CakeRequest))
+#11 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2016-03-01 08:14:48 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:14:48 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:17:16 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:17:16 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 08:17:56 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\wamp\www\cakephp\app\Controller\HelloController.php, line 18]
+2016-03-01 08:17:56 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /cakephp/hello
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#2 C:\wamp\www\cakephp\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\wamp\\www\\cak...', 18, Array)
+#3 C:\wamp\www\cakephp\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-03-01 09:16:44 Error: [MissingActionException] Action UsersController::indexz() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'indexz',
+)
+Request URL: /cakephp/users/indexz
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-03-01 09:59:41 Error: [MissingLayoutException] Layout file "Layouts\custom.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Layouts\\custom.ctp',
+)
+Request URL: /cakephp/users
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(514): View->_getLayoutFileName('custom')
+#1 C:\wamp\www\cakephp\lib\Cake\View\View.php(481): View->renderLayout('', 'custom')
+#2 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#5 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-03-01 10:00:49 Error: [MissingLayoutException] Layout file "Layouts\custom.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Layouts\\custom.ctp',
+)
+Request URL: /cakephp/users
+Stack Trace:
+#0 C:\wamp\www\cakephp\lib\Cake\View\View.php(514): View->_getLayoutFileName('custom')
+#1 C:\wamp\www\cakephp\lib\Cake\View\View.php(481): View->renderLayout('', 'custom')
+#2 C:\wamp\www\cakephp\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#3 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#4 C:\wamp\www\cakephp\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#5 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2016-03-02 01:39:51 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/index
+Stack Trace:
+#0 C:\wamp\www\cakephp\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
