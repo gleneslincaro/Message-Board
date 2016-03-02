@@ -1,4 +1,4 @@
-<h2>Add New User</h2>
+<h2>Add New Users</h2>
  
 <!-- link to add new users page -->
 <div class='upper-right-opt'>
